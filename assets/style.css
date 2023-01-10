@@ -12,7 +12,8 @@ body {
 
 section {
     font-family:'Courier New', Courier, monospace;
-    border: 10px;
+    padding: 12px;
+    line-height: 10px;
 }
 
 nav {
@@ -57,6 +58,20 @@ nav .links:hover {
     .rightSection {
         float: none;
     }
+}
+
+@media screen and (max-width: 415px) {
+    .intro {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-wrap: wrap;
+        margin: 10px;
+    }
+    img {
+        width: 150px;
+    }
+    
 }
 
 img {
