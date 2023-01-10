@@ -66,8 +66,8 @@ nav .links:hover {
         align-items: center;
         justify-content: center;
         flex-wrap: wrap;
-        margin: 10px;
-        line-height: 20px;
+        margin: 5px;
+        line-height: 15px;
         flex-direction: column;
     }
     img {
