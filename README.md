@@ -11,3 +11,12 @@
 * It is done when my first application is presented and that apllication's image is larger in size than the others.
 * It is done when I click on the images of the applications then I am taken to that deployed application.
 * It is done when I create a responsive layout that adopts to different viewports.
+
+<img width="1470" alt="Screenshot 2023-01-14 at 11 36 33 AM" src="https://user-images.githubusercontent.com/117123654/212487694-b0f7ba84-915f-453c-81d6-ff28cfb0c728.png">
+
+
+<img width="1470" alt="Screenshot 2023-01-14 at 11 36 42 AM" src="https://user-images.githubusercontent.com/117123654/212487719-8c0a81e5-93e1-403c-b9ce-a09de565c7ea.png">
+
+<img width="1470" alt="Screenshot 2023-01-14 at 11 36 51 AM" src="https://user-images.githubusercontent.com/117123654/212487732-078f8ac2-17dc-4651-9527-046de5749dda.png">
+
+<img width="1470" alt="Screenshot 2023-01-14 at 11 36 58 AM" src="https://user-images.githubusercontent.com/117123654/212487744-9ca95a2f-6a8c-4d6a-9b82-937f7a886693.png">
