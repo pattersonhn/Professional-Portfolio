@@ -12,7 +12,7 @@
 * It is done when I click on the images of the applications then I am taken to that deployed application.
 * It is done when I create a responsive layout that adopts to different viewports.
 
-<img width="1470" alt="Screenshot 2023-01-14 at 11 36 33 AM" src="https://user-images.githubusercontent.com/117123654/212487694-b0f7ba84-915f-453c-81d6-ff28cfb0c728.png">
+![Screenshot 2023-01-14 at 11 36 33 AM](https://user-images.githubusercontent.com/117123654/212487849-5b22b117-0fb6-48c3-8ff8-a19d51b7ff07.jpeg)
 
 
 <img width="1470" alt="Screenshot 2023-01-14 at 11 36 42 AM" src="https://user-images.githubusercontent.com/117123654/212487719-8c0a81e5-93e1-403c-b9ce-a09de565c7ea.png">
